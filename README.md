@@ -1,4 +1,4 @@
-# Data-Analysis-Projects
+# Data Analysis Projects
 
 * <h4><b> California Housing Data Analysis Project </b></h4> 
 
